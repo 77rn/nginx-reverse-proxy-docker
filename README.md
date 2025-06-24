@@ -66,7 +66,7 @@ Nginx routes based on URL prefix:
 
 ## Bonus Implemented
 
-- Health checks using `curl` (or disabled for bootstrapping)
+- Health checks using `curl`
 - Structured Nginx logging with timestamp, request path, and status
 - Clean Dockerfile separation for each service and Nginx
 - Single-command system startup
